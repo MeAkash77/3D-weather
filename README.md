@@ -12,7 +12,7 @@ weather data. Click MrWeather's face to visit demo.
 ## Project Overview
 
 - Project written to practice React, API, testing, Three.js
-- [Demo](https://mr-weather.vercel.app/)
+- [Demo](https://akash77-3d-weather.vercel.app/)
 
 ## Tools
 
