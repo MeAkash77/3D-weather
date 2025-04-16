@@ -3,11 +3,8 @@
 Weather app with a 3D model rendered by Three.js. Key in location and get
 weather data. Click MrWeather's face to visit demo.
 
-<p align="center">
-    <a href="https://mr-weather.vercel.app/" target="_blank" rel="noreferrer">
-        <img src="./public/mrWeather.png" alt="MrWeather icon" width="175">
-    </a>
-</p>
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/3e1afcea-6e5e-48b8-a876-2d01ffc148de" />
+
 
 ## Project Overview
 
